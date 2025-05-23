@@ -1,3 +1,6 @@
+
+![ChatGPT Image May 23, 2025, 10_25_41 AM](https://github.com/user-attachments/assets/fe40d718-d1d8-44e9-a8a4-a5ad39153218)
+
 # Dune API MCP Server
 
 This project implements a Model Context Protocol (MCP) server that exposes functionality from the Dune API, allowing LLM agents and other MCP clients to analyze blockchain information.
